@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/single-phase-immersion-cooling-explainer/
 
+Repository: https://github.com/mizcausevic-dev/single-phase-immersion-cooling-explainer
+
 ## What this is
 
 An interactive anatomy plate for Single-Phase Immersion Cooling. Play, scrub, or jump the five stages. The same frame always draws the same picture.
