@@ -11,7 +11,7 @@
       "glyph": "duct",
       "label": "Compatible fluid",
       "role": "path",
-      "x": 0.12,
+      "x": 0.14,
       "y": 0.32
     },
     {
@@ -27,7 +27,7 @@
       "glyph": "distill",
       "label": "Circulate liquid",
       "role": "path",
-      "x": 0.88,
+      "x": 0.86,
       "y": 0.32
     },
     {
@@ -35,24 +35,24 @@
       "glyph": "knit",
       "label": "Into facility loop",
       "role": "path",
-      "x": 0.2,
-      "y": 0.68
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
       "glyph": "card",
       "label": "Monitor",
       "role": "sense",
-      "x": 0.52,
-      "y": 0.68
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "plate",
       "label": "Service",
       "role": "structure",
-      "x": 0.84,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
